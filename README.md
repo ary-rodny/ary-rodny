@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ary-rodny
-- 👀 I’m interested in back end and front-end development. PHP, Javascript, Nodejs, etc.
-- 🌱 I’m currently learning nodejs
+- 👀 I’m interested in back end and front-end development. PHP, Javascript, React, C#, etc.
+- 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fojforever7@gmail.com
 
