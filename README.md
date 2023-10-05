@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ary-rodny
-- 👀 I’m interested in back end and front-end development. PHP, Javascript, React, C#, etc.
+- 👀 I’m interested in back end and front-end development. Javascript, React, NodeJs C#, etc.
 - 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me fojforever7@gmail.com
+
+
 
 <!---
 ary-rodny/ary-rodny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
